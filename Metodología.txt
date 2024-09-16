@@ -1,0 +1,13 @@
+Metodología
+
+Secuencia de pasos a seguir:
+
+1- Búsqueda de datos
+2- Analizar datos disponibles
+3- Limpiar los datos
+4- Filtrar los datos
+5- Seleccionar la población indígena y nacional
+6- Obtener la suma acumulada de distintos datos de: Chiapas, CDMX, Nuevo León y Oaxaca
+7- Graficar los valores obtenidos en Python
+8- Graficar en Tableau
+9- Búsqueda de información complementaria
